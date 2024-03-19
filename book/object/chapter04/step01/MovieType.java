@@ -1,4 +1,4 @@
-package book.object.chapter03.step01;
+package book.object.chapter04.step01;
 
 public enum MovieType {
     AMOUNT_DISCOUNT,    // 금액 할인 정책
